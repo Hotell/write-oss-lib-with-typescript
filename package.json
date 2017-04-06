@@ -1,0 +1,8 @@
+{
+  "name": "write-oss-lib-with-typescript",
+  "version": "1.0.0",
+  "description": "Workshope curriculum",
+  "main": "index.js",
+  "author": "Martin Hochel <hochelmartin@gmail.com>",
+  "license": "MIT"
+}

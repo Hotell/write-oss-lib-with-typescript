@@ -1,4 +1,4 @@
-## Writing our library VII
+## Writing our library VIII
 
 `yarn add -D standard-version`
 

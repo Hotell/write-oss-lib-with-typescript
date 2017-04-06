@@ -4,5 +4,12 @@
   "description": "Workshope curriculum",
   "main": "index.js",
   "author": "Martin Hochel <hochelmartin@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "docs:build": "gitbook install && gitbook build",
+    "docs:watch": "gitbook install && gitbook serve"
+  },
+  "devDependencies": {
+    "gitbook-cli": "2.3.0"
+  }
 }

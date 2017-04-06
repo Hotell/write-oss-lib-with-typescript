@@ -1,4 +1,4 @@
-## Writing our library VIII
+## Writing our library IX
 
 Now our lib is published to npm. Let's use it!
 
